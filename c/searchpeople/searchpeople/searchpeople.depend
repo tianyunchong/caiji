@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1489480301 source:/data/cap/github/caiji/c/searchpeople/searchpeople/main.c
+	<stdio.h>
+	<stdlib.h>
+	"html/html.h"
+
+1489479681 /data/cap/github/caiji/c/searchpeople/searchpeople/curl/html/html.h
+
+1489480267 /data/cap/github/caiji/c/searchpeople/searchpeople/html/html.h
+
